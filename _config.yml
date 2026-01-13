@@ -27,21 +27,21 @@ author:
   name             : "柯璇的主页"
   pronouns         : # "he/his"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "Daqing·China"
-  employer         : "Northeast Petroleum University"
+  location         : "中国 · 大庆"
+  employer         : "东北石油大学"
   uri              : # URL
   email            : "kexuan@nepu.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=-k0VjwoAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5485-3664"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
