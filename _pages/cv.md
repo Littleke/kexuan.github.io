@@ -9,28 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历-Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2015年9月～2017年12月：东北石油大学地质资源与地质工程专业，获博士学位，主攻VSP数据偏移成像方法及关键技术研究，导师：石颖教授
+* 2012年9月～2015年7月：东北石油大学地质工程专业，获硕士学位，主攻复杂构造叠前逆时偏移成像方法研究，导师：石颖教授
+* 2008年9月～2012年7月：东北石油大学地球物理学专业，获学士学位，导师：石颖教授
 
-Work experience
+工作经历-Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023年10-至今：黑龙江省高层次人才（E类）
+* 2022年8月-2023年8月：加拿大阿尔伯塔大学，访问学者
+* 2021年9月-至今：东北石油大学地球科学学院，副教授（破格）
+* 2017年12月-2021年9月：东北石油大学地球科学学院，讲师
   
 Skills
 ======
