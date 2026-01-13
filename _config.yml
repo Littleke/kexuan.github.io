@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xuan Ke's HostPage / 柯璇的主页"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Daqing·China"
+  employer         : "Northeast Petroleum University"
   uri              : # URL
   email            : "none@example.org" 
 
